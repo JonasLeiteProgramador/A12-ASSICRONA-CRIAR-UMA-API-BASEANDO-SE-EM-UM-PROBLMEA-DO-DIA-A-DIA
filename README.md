@@ -1,0 +1,2 @@
+Usando um banco de dados mocado, crie uma API baseando-se em um problema do seu dia a dia, que permita armazenar e manipular dados. A API deve ter no minimo 2 rotas e cada uma deve permitir criar e ler os dados. A API deve usar os models para definir a estrutura e a validação dos dados. Use o Insomnia ou o Postman para testar as suas requisições e verificar se a sua API está funcionando corretamente. Você deve enviar e receber os dados em formato JSON.
+
